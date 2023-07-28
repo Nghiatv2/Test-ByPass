@@ -29,8 +29,10 @@
         <radius/>
         <streetaddress/>
         <email>sourcingcenter@ryder.com</email>
-        <salary><![CDATA[50]]></salary>
-        <salary_type><![CDATA[DAILY]]></salary_type>
+      <salary_from><![CDATA[50]]></salary_from>
+      <salary_to><![CDATA[100]]></salary_to>
+      <salary_type><![CDATA[DAILY]]></salary_type>
+      <salary_unit><![CDATA[USD]]></salary_unit>
         <education/>
         <resumeoption>Optional</resumeoption>
         <jobtype>Full Time</jobtype>
@@ -72,8 +74,10 @@
         <radius/>
         <streetaddress/>
         <email>sourcingcenter@ryder.com</email>
-        <salary><![CDATA[50]]></salary>
-        <salary_type><![CDATA[DAILY]]></salary_type>
+       <salary_from><![CDATA[50]]></salary_from>
+<salary_to><![CDATA[100]]></salary_to>
+<salary_type><![CDATA[DAILY]]></salary_type>
+<salary_unit><![CDATA[USD]]></salary_unit>
         <education/>
         <resumeoption>Optional</resumeoption>
         <jobtype>Full Time</jobtype>
