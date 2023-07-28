@@ -29,6 +29,7 @@
             can expect unlimited career advancement! ]]>
         </description>
         <salary><![CDATA[$50K per year]]></salary>
+        <salary_type><![CDATA[DAILY]]></salary_type>
         <education><![CDATA[Bachelors]]></education>
         <jobtype><![CDATA[fulltime, parttime]]></jobtype>
         <major_category><![CDATA[Category1, Category2, CategoryN]]></major_category> ---- able to specify multiple categories
@@ -68,6 +69,7 @@
             can expect unlimited career advancement! ]]>
         </description>
         <salary><![CDATA[$50K per year]]></salary>
+       <salary_type><![CDATA[DAILY]]></salary_type>
         <education><![CDATA[Bachelors]]></education>
         <jobtype><![CDATA[fulltime, parttime]]></jobtype>
         <major_category><![CDATA[Category1, Category2, CategoryN]]></major_category>
@@ -107,6 +109,7 @@
             can expect unlimited career advancement! ]]>
         </description>
         <salary><![CDATA[$50K per year]]></salary>
+        <salary_type><![CDATA[DAILY]]></salary_type>
         <education><![CDATA[Bachelors]]></education>
         <jobtype><![CDATA[fulltime, parttime]]></jobtype>
         <major_category><![CDATA[Category1, Category2, CategoryN]]></major_category>
@@ -146,6 +149,7 @@
             can expect unlimited career advancement! ]]>
         </description>
         <salary><![CDATA[$50K per year]]></salary>
+        <salary_type><![CDATA[DAILY]]></salary_type>
         <education><![CDATA[Bachelors]]></education>
         <jobtype><![CDATA[fulltime, parttime]]></jobtype>
         <major_category><![CDATA[Category1, Category2, CategoryN]]></major_category>
@@ -185,6 +189,7 @@
             can expect unlimited career advancement! ]]>
         </description>
         <salary><![CDATA[$50K per year]]></salary>
+        <salary_type><![CDATA[DAILY]]></salary_type>
         <education><![CDATA[Bachelors]]></education>
         <jobtype><![CDATA[fulltime, parttime]]></jobtype>
         <major_category><![CDATA[Category1, Category2, CategoryN]]></major_category>
