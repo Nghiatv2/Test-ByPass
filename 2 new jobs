@@ -29,7 +29,7 @@
         <radius/>
         <streetaddress/>
         <email>sourcingcenter@ryder.com</email>
-        <salary><![CDATA[$50]]></salary>
+        <salary><![CDATA[50]]></salary>
         <salary_type><![CDATA[DAILY]]></salary_type>
         <education/>
         <resumeoption>Optional</resumeoption>
@@ -72,7 +72,7 @@
         <radius/>
         <streetaddress/>
         <email>sourcingcenter@ryder.com</email>
-        <salary><![CDATA[$50]]></salary>
+        <salary><![CDATA[50]]></salary>
         <salary_type><![CDATA[DAILY]]></salary_type>
         <education/>
         <resumeoption>Optional</resumeoption>
