@@ -30,7 +30,7 @@
         <streetaddress/>
         <email>sourcingcenter@ryder.com</email>
       <salary_from><![CDATA[50]]></salary_from>
-      <salary_to><![CDATA[100]]></salary_to>
+     
       <salary_type><![CDATA[DAILY]]></salary_type>
       <salary_unit><![CDATA[USD]]></salary_unit>
         <education/>
@@ -75,7 +75,7 @@
         <streetaddress/>
         <email>sourcingcenter@ryder.com</email>
        <salary_from><![CDATA[50]]></salary_from>
-<salary_to><![CDATA[100]]></salary_to>
+
 <salary_type><![CDATA[DAILY]]></salary_type>
 <salary_unit><![CDATA[USD]]></salary_unit>
         <education/>
