@@ -1,0 +1,844 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<source>
+<publisher_name>
+<![CDATA[ gotoro ]]>
+</publisher_name>
+<publisher_url>
+<![CDATA[ https://be-test.gotoro.io/api/publisher/masterfeed/ZipRecruiter?feed_id=5&pub_id=25897157cfa2bafa112d38a8e8e4e8b7371958d0dd4058a6588897a70bd5423e95 ]]>
+</publisher_url>
+<last_build_date>
+<![CDATA[ 2024-05-28T09:06:37.207Z ]]>
+</last_build_date>
+<job>
+<title>
+<![CDATA[ Test2805 ]]>
+</title>
+<id>
+<![CDATA[ 6016031 ]]>
+</id>
+<description>
+<![CDATA[ <p>445</p> ]]>
+</description>
+<url>
+<![CDATA[ https://fe-test.gotoro.io/job-redirect/357e3a2651d35cec6ca6633817e415350c59c52a?p1=6016031&p2=6&p3=5&utm_source=ZipRecruiter ]]>
+</url>
+<city>
+<![CDATA[ Corona ]]>
+</city>
+<state>
+<![CDATA[ NY ]]>
+</state>
+<postal_code>
+<![CDATA[ 11368 ]]>
+</postal_code>
+<cpc>
+<![CDATA[ 2.26 ]]>
+</cpc>
+<company>
+<![CDATA[ Giltner Transportation Inc ]]>
+</company>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<major_category>
+<![CDATA[ Capital Markets ]]>
+</major_category>
+<minor_category>
+<![CDATA[ Trader ]]>
+</minor_category>
+<campaign_name>
+<![CDATA[ Test2805 ]]>
+</campaign_name>
+<campaign_id>
+<![CDATA[ 1068 ]]>
+</campaign_id>
+<advertiser_id>
+<![CDATA[ 5 ]]>
+</advertiser_id>
+</job>
+<job>
+<title>
+<![CDATA[ Test2805 ]]>
+</title>
+<id>
+<![CDATA[ 6016032 ]]>
+</id>
+<description>
+<![CDATA[ <p>445</p> ]]>
+</description>
+<url>
+<![CDATA[ https://fe-test.gotoro.io/job-redirect/978e80e6276e64e1b14c9b4834f94d0cc19a94ba?p1=6016032&p2=6&p3=5&utm_source=ZipRecruiter ]]>
+</url>
+<city>
+<![CDATA[ Toronto ]]>
+</city>
+<state>
+<![CDATA[ ON ]]>
+</state>
+<cpc>
+<![CDATA[ 2.26 ]]>
+</cpc>
+<company>
+<![CDATA[ Giltner Transportation Inc ]]>
+</company>
+<country>
+<![CDATA[ Canada ]]>
+</country>
+<country_code>
+<![CDATA[ CA ]]>
+</country_code>
+<major_category>
+<![CDATA[ Capital Markets ]]>
+</major_category>
+<minor_category>
+<![CDATA[ Trader ]]>
+</minor_category>
+<campaign_name>
+<![CDATA[ Test2805 ]]>
+</campaign_name>
+<campaign_id>
+<![CDATA[ 1068 ]]>
+</campaign_id>
+<advertiser_id>
+<![CDATA[ 5 ]]>
+</advertiser_id>
+</job>
+<job>
+<title>
+<![CDATA[ Test2805 ]]>
+</title>
+<id>
+<![CDATA[ 6016033 ]]>
+</id>
+<description>
+<![CDATA[ <p>445</p> ]]>
+</description>
+<url>
+<![CDATA[ https://fe-test.gotoro.io/job-redirect/6b368f81540fc3556df68c494eb9b23a990f5cdb?p1=6016033&p2=6&p3=5&utm_source=ZipRecruiter ]]>
+</url>
+<city>
+<![CDATA[ Ridgewood ]]>
+</city>
+<state>
+<![CDATA[ NY ]]>
+</state>
+<postal_code>
+<![CDATA[ 11385 ]]>
+</postal_code>
+<cpc>
+<![CDATA[ 2.26 ]]>
+</cpc>
+<company>
+<![CDATA[ Giltner Transportation Inc ]]>
+</company>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<major_category>
+<![CDATA[ Capital Markets ]]>
+</major_category>
+<minor_category>
+<![CDATA[ Trader ]]>
+</minor_category>
+<campaign_name>
+<![CDATA[ Test2805 ]]>
+</campaign_name>
+<campaign_id>
+<![CDATA[ 1068 ]]>
+</campaign_id>
+<advertiser_id>
+<![CDATA[ 5 ]]>
+</advertiser_id>
+</job>
+<job>
+<title>
+<![CDATA[ Test2805 ]]>
+</title>
+<id>
+<![CDATA[ 6016034 ]]>
+</id>
+<description>
+<![CDATA[ <p>445</p> ]]>
+</description>
+<url>
+<![CDATA[ https://fe-test.gotoro.io/job-redirect/6de876973e87e51d3891c1d4b18b95aedbef0128?p1=6016034&p2=6&p3=5&utm_source=ZipRecruiter ]]>
+</url>
+<city>
+<![CDATA[ Elmhurst ]]>
+</city>
+<state>
+<![CDATA[ NY ]]>
+</state>
+<postal_code>
+<![CDATA[ 11373 ]]>
+</postal_code>
+<cpc>
+<![CDATA[ 2.26 ]]>
+</cpc>
+<company>
+<![CDATA[ Giltner Transportation Inc ]]>
+</company>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<major_category>
+<![CDATA[ Capital Markets ]]>
+</major_category>
+<minor_category>
+<![CDATA[ Trader ]]>
+</minor_category>
+<campaign_name>
+<![CDATA[ Test2805 ]]>
+</campaign_name>
+<campaign_id>
+<![CDATA[ 1068 ]]>
+</campaign_id>
+<advertiser_id>
+<![CDATA[ 5 ]]>
+</advertiser_id>
+</job>
+<job>
+<title>
+<![CDATA[ Test2805 ]]>
+</title>
+<id>
+<![CDATA[ 6016035 ]]>
+</id>
+<description>
+<![CDATA[ <p>445</p> ]]>
+</description>
+<url>
+<![CDATA[ https://fe-test.gotoro.io/job-redirect/a37ccd4c5525ce71640126314568d921643860fe?p1=6016035&p2=6&p3=5&utm_source=ZipRecruiter ]]>
+</url>
+<city>
+<![CDATA[ Woodside ]]>
+</city>
+<state>
+<![CDATA[ NY ]]>
+</state>
+<postal_code>
+<![CDATA[ 11377 ]]>
+</postal_code>
+<cpc>
+<![CDATA[ 2.26 ]]>
+</cpc>
+<company>
+<![CDATA[ Giltner Transportation Inc ]]>
+</company>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<major_category>
+<![CDATA[ Capital Markets ]]>
+</major_category>
+<minor_category>
+<![CDATA[ Trader ]]>
+</minor_category>
+<campaign_name>
+<![CDATA[ Test2805 ]]>
+</campaign_name>
+<campaign_id>
+<![CDATA[ 1068 ]]>
+</campaign_id>
+<advertiser_id>
+<![CDATA[ 5 ]]>
+</advertiser_id>
+</job>
+<job>
+<title>
+<![CDATA[ Test2805 ]]>
+</title>
+<id>
+<![CDATA[ 6016036 ]]>
+</id>
+<description>
+<![CDATA[ <p>445</p> ]]>
+</description>
+<url>
+<![CDATA[ https://fe-test.gotoro.io/job-redirect/33d9a75cf51ae05e00144008e67aaca7ee10f448?p1=6016036&p2=6&p3=5&utm_source=ZipRecruiter ]]>
+</url>
+<city>
+<![CDATA[ Flushing ]]>
+</city>
+<state>
+<![CDATA[ NY ]]>
+</state>
+<postal_code>
+<![CDATA[ 11351 ]]>
+</postal_code>
+<cpc>
+<![CDATA[ 2.26 ]]>
+</cpc>
+<company>
+<![CDATA[ Giltner Transportation Inc ]]>
+</company>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<major_category>
+<![CDATA[ Capital Markets ]]>
+</major_category>
+<minor_category>
+<![CDATA[ Trader ]]>
+</minor_category>
+<campaign_name>
+<![CDATA[ Test2805 ]]>
+</campaign_name>
+<campaign_id>
+<![CDATA[ 1068 ]]>
+</campaign_id>
+<advertiser_id>
+<![CDATA[ 5 ]]>
+</advertiser_id>
+</job>
+<job>
+<title>
+<![CDATA[ Test2805 ]]>
+</title>
+<id>
+<![CDATA[ 6016037 ]]>
+</id>
+<description>
+<![CDATA[ <p>445</p> ]]>
+</description>
+<url>
+<![CDATA[ https://fe-test.gotoro.io/job-redirect/64e6acd9ef37b475c000fb0a746c9b2b255a4d67?p1=6016037&p2=6&p3=5&utm_source=ZipRecruiter ]]>
+</url>
+<city>
+<![CDATA[ Forest Hills ]]>
+</city>
+<state>
+<![CDATA[ NY ]]>
+</state>
+<postal_code>
+<![CDATA[ 11375 ]]>
+</postal_code>
+<cpc>
+<![CDATA[ 2.26 ]]>
+</cpc>
+<company>
+<![CDATA[ Giltner Transportation Inc ]]>
+</company>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<major_category>
+<![CDATA[ Capital Markets ]]>
+</major_category>
+<minor_category>
+<![CDATA[ Trader ]]>
+</minor_category>
+<campaign_name>
+<![CDATA[ Test2805 ]]>
+</campaign_name>
+<campaign_id>
+<![CDATA[ 1068 ]]>
+</campaign_id>
+<advertiser_id>
+<![CDATA[ 5 ]]>
+</advertiser_id>
+</job>
+<job>
+<title>
+<![CDATA[ Test2805 ]]>
+</title>
+<id>
+<![CDATA[ 6016038 ]]>
+</id>
+<description>
+<![CDATA[ <p>445</p> ]]>
+</description>
+<url>
+<![CDATA[ https://fe-test.gotoro.io/job-redirect/50d4b6a104b5b910ae055ebedc67d3b62aa47d7b?p1=6016038&p2=6&p3=5&utm_source=ZipRecruiter ]]>
+</url>
+<city>
+<![CDATA[ Jamaica ]]>
+</city>
+<state>
+<![CDATA[ NY ]]>
+</state>
+<postal_code>
+<![CDATA[ 11405 ]]>
+</postal_code>
+<cpc>
+<![CDATA[ 2.26 ]]>
+</cpc>
+<company>
+<![CDATA[ Giltner Transportation Inc ]]>
+</company>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<major_category>
+<![CDATA[ Capital Markets ]]>
+</major_category>
+<minor_category>
+<![CDATA[ Trader ]]>
+</minor_category>
+<campaign_name>
+<![CDATA[ Test2805 ]]>
+</campaign_name>
+<campaign_id>
+<![CDATA[ 1068 ]]>
+</campaign_id>
+<advertiser_id>
+<![CDATA[ 5 ]]>
+</advertiser_id>
+</job>
+<job>
+<title>
+<![CDATA[ Test2805 ]]>
+</title>
+<id>
+<![CDATA[ 6016039 ]]>
+</id>
+<description>
+<![CDATA[ <p>445</p> ]]>
+</description>
+<url>
+<![CDATA[ https://fe-test.gotoro.io/job-redirect/bf2b23f6416eb28b13460a2161078beaaaf12903?p1=6016039&p2=6&p3=5&utm_source=ZipRecruiter ]]>
+</url>
+<city>
+<![CDATA[ Jackson Heights ]]>
+</city>
+<state>
+<![CDATA[ NY ]]>
+</state>
+<postal_code>
+<![CDATA[ 11372 ]]>
+</postal_code>
+<cpc>
+<![CDATA[ 2.26 ]]>
+</cpc>
+<company>
+<![CDATA[ Giltner Transportation Inc ]]>
+</company>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<major_category>
+<![CDATA[ Capital Markets ]]>
+</major_category>
+<minor_category>
+<![CDATA[ Trader ]]>
+</minor_category>
+<campaign_name>
+<![CDATA[ Test2805 ]]>
+</campaign_name>
+<campaign_id>
+<![CDATA[ 1068 ]]>
+</campaign_id>
+<advertiser_id>
+<![CDATA[ 5 ]]>
+</advertiser_id>
+</job>
+<job>
+<title>
+<![CDATA[ Test2805 ]]>
+</title>
+<id>
+<![CDATA[ 6016040 ]]>
+</id>
+<description>
+<![CDATA[ <p>445</p> ]]>
+</description>
+<url>
+<![CDATA[ https://fe-test.gotoro.io/job-redirect/239beb40e42b59b6286c91558a14902bc340bf49?p1=6016040&p2=6&p3=5&utm_source=ZipRecruiter ]]>
+</url>
+<city>
+<![CDATA[ Bronx ]]>
+</city>
+<state>
+<![CDATA[ NY ]]>
+</state>
+<postal_code>
+<![CDATA[ 10473 ]]>
+</postal_code>
+<cpc>
+<![CDATA[ 2.26 ]]>
+</cpc>
+<company>
+<![CDATA[ Giltner Transportation Inc ]]>
+</company>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<major_category>
+<![CDATA[ Capital Markets ]]>
+</major_category>
+<minor_category>
+<![CDATA[ Trader ]]>
+</minor_category>
+<campaign_name>
+<![CDATA[ Test2805 ]]>
+</campaign_name>
+<campaign_id>
+<![CDATA[ 1068 ]]>
+</campaign_id>
+<advertiser_id>
+<![CDATA[ 5 ]]>
+</advertiser_id>
+</job>
+<job>
+<title>
+<![CDATA[ Test2805 ]]>
+</title>
+<id>
+<![CDATA[ 6016041 ]]>
+</id>
+<description>
+<![CDATA[ <p>445</p> ]]>
+</description>
+<url>
+<![CDATA[ https://fe-test.gotoro.io/job-redirect/fafbcb44e715fa923c5bce2fe336f64cdb47a2f1?p1=6016041&p2=6&p3=5&utm_source=ZipRecruiter ]]>
+</url>
+<city>
+<![CDATA[ South Richmond Hill ]]>
+</city>
+<state>
+<![CDATA[ NY ]]>
+</state>
+<postal_code>
+<![CDATA[ 11419 ]]>
+</postal_code>
+<cpc>
+<![CDATA[ 2.26 ]]>
+</cpc>
+<company>
+<![CDATA[ Giltner Transportation Inc ]]>
+</company>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<major_category>
+<![CDATA[ Capital Markets ]]>
+</major_category>
+<minor_category>
+<![CDATA[ Trader ]]>
+</minor_category>
+<campaign_name>
+<![CDATA[ Test2805 ]]>
+</campaign_name>
+<campaign_id>
+<![CDATA[ 1068 ]]>
+</campaign_id>
+<advertiser_id>
+<![CDATA[ 5 ]]>
+</advertiser_id>
+</job>
+<job>
+<title>
+<![CDATA[ Test2805 ]]>
+</title>
+<id>
+<![CDATA[ 6016042 ]]>
+</id>
+<description>
+<![CDATA[ <p>445</p> ]]>
+</description>
+<url>
+<![CDATA[ https://fe-test.gotoro.io/job-redirect/a09db3b6a978bfe187aa1c7525aad32db03ac244?p1=6016042&p2=6&p3=5&utm_source=ZipRecruiter ]]>
+</url>
+<city>
+<![CDATA[ Brooklyn ]]>
+</city>
+<state>
+<![CDATA[ NY ]]>
+</state>
+<postal_code>
+<![CDATA[ 11237 ]]>
+</postal_code>
+<cpc>
+<![CDATA[ 2.26 ]]>
+</cpc>
+<company>
+<![CDATA[ Giltner Transportation Inc ]]>
+</company>
+<country>
+<![CDATA[ United States ]]>
+</country>
+<country_code>
+<![CDATA[ US ]]>
+</country_code>
+<major_category>
+<![CDATA[ Capital Markets ]]>
+</major_category>
+<minor_category>
+<![CDATA[ Trader ]]>
+</minor_category>
+<campaign_name>
+<![CDATA[ Test2805 ]]>
+</campaign_name>
+<campaign_id>
+<![CDATA[ 1068 ]]>
+</campaign_id>
+<advertiser_id>
+<![CDATA[ 5 ]]>
+</advertiser_id>
+</job>
+<job>
+<title>
+<![CDATA[ Test2805 ]]>
+</title>
+<id>
+<![CDATA[ 6016043 ]]>
+</id>
+<description>
+<![CDATA[ <p>445</p> ]]>
+</description>
+<url>
+<![CDATA[ https://fe-test.gotoro.io/job-redirect/cbbbb36ae8a9c0cecf225d43432e945d1e9b21f3?p1=6016043&p2=6&p3=5&utm_source=ZipRecruiter ]]>
+</url>
+<city>
+<![CDATA[ Don Mills ]]>
+</city>
+<state>
+<![CDATA[ ON ]]>
+</state>
+<cpc>
+<![CDATA[ 2.26 ]]>
+</cpc>
+<company>
+<![CDATA[ Giltner Transportation Inc ]]>
+</company>
+<country>
+<![CDATA[ Canada ]]>
+</country>
+<country_code>
+<![CDATA[ CA ]]>
+</country_code>
+<major_category>
+<![CDATA[ Capital Markets ]]>
+</major_category>
+<minor_category>
+<![CDATA[ Trader ]]>
+</minor_category>
+<campaign_name>
+<![CDATA[ Test2805 ]]>
+</campaign_name>
+<campaign_id>
+<![CDATA[ 1068 ]]>
+</campaign_id>
+<advertiser_id>
+<![CDATA[ 5 ]]>
+</advertiser_id>
+</job>
+<job>
+<title>
+<![CDATA[ Test2805 ]]>
+</title>
+<id>
+<![CDATA[ 6016044 ]]>
+</id>
+<description>
+<![CDATA[ <p>445</p> ]]>
+</description>
+<url>
+<![CDATA[ https://fe-test.gotoro.io/job-redirect/940230da22dee0c00511f73a931de3b2fc1e33d2?p1=6016044&p2=6&p3=5&utm_source=ZipRecruiter ]]>
+</url>
+<city>
+<![CDATA[ Forest Hill ]]>
+</city>
+<state>
+<![CDATA[ ON ]]>
+</state>
+<cpc>
+<![CDATA[ 2.26 ]]>
+</cpc>
+<company>
+<![CDATA[ Giltner Transportation Inc ]]>
+</company>
+<country>
+<![CDATA[ Canada ]]>
+</country>
+<country_code>
+<![CDATA[ CA ]]>
+</country_code>
+<major_category>
+<![CDATA[ Capital Markets ]]>
+</major_category>
+<minor_category>
+<![CDATA[ Trader ]]>
+</minor_category>
+<campaign_name>
+<![CDATA[ Test2805 ]]>
+</campaign_name>
+<campaign_id>
+<![CDATA[ 1068 ]]>
+</campaign_id>
+<advertiser_id>
+<![CDATA[ 5 ]]>
+</advertiser_id>
+</job>
+<job>
+<title>
+<![CDATA[ Test2805 ]]>
+</title>
+<id>
+<![CDATA[ 6016045 ]]>
+</id>
+<description>
+<![CDATA[ <p>445</p> ]]>
+</description>
+<url>
+<![CDATA[ https://fe-test.gotoro.io/job-redirect/a5a501310188f2d0abf0502b21c229f844b9c6ec?p1=6016045&p2=6&p3=5&utm_source=ZipRecruiter ]]>
+</url>
+<city>
+<![CDATA[ Leaside ]]>
+</city>
+<state>
+<![CDATA[ ON ]]>
+</state>
+<cpc>
+<![CDATA[ 2.26 ]]>
+</cpc>
+<company>
+<![CDATA[ Giltner Transportation Inc ]]>
+</company>
+<country>
+<![CDATA[ Canada ]]>
+</country>
+<country_code>
+<![CDATA[ CA ]]>
+</country_code>
+<major_category>
+<![CDATA[ Capital Markets ]]>
+</major_category>
+<minor_category>
+<![CDATA[ Trader ]]>
+</minor_category>
+<campaign_name>
+<![CDATA[ Test2805 ]]>
+</campaign_name>
+<campaign_id>
+<![CDATA[ 1068 ]]>
+</campaign_id>
+<advertiser_id>
+<![CDATA[ 5 ]]>
+</advertiser_id>
+</job>
+<job>
+<title>
+<![CDATA[ Test2805 ]]>
+</title>
+<id>
+<![CDATA[ 6016046 ]]>
+</id>
+<description>
+<![CDATA[ <p>445</p> ]]>
+</description>
+<url>
+<![CDATA[ https://fe-test.gotoro.io/job-redirect/737a8f8656caf90d6133862afb238592c085db02?p1=6016046&p2=6&p3=5&utm_source=ZipRecruiter ]]>
+</url>
+<city>
+<![CDATA[ Thornhill ]]>
+</city>
+<state>
+<![CDATA[ ON ]]>
+</state>
+<cpc>
+<![CDATA[ 2.26 ]]>
+</cpc>
+<company>
+<![CDATA[ Giltner Transportation Inc ]]>
+</company>
+<country>
+<![CDATA[ Canada ]]>
+</country>
+<country_code>
+<![CDATA[ CA ]]>
+</country_code>
+<major_category>
+<![CDATA[ Capital Markets ]]>
+</major_category>
+<minor_category>
+<![CDATA[ Trader ]]>
+</minor_category>
+<campaign_name>
+<![CDATA[ Test2805 ]]>
+</campaign_name>
+<campaign_id>
+<![CDATA[ 1068 ]]>
+</campaign_id>
+<advertiser_id>
+<![CDATA[ 5 ]]>
+</advertiser_id>
+</job>
+<job>
+<title>
+<![CDATA[ Test2805 ]]>
+</title>
+<id>
+<![CDATA[ 6016047 ]]>
+</id>
+<description>
+<![CDATA[ <p>445</p> ]]>
+</description>
+<url>
+<![CDATA[ https://fe-test.gotoro.io/job-redirect/fbb2d49dba5e39befbe5972dbf53a31621b5e3cf?p1=6016047&p2=6&p3=5&utm_source=ZipRecruiter ]]>
+</url>
+<city>
+<![CDATA[ York Mills ]]>
+</city>
+<state>
+<![CDATA[ ON ]]>
+</state>
+<cpc>
+<![CDATA[ 2.26 ]]>
+</cpc>
+<company>
+<![CDATA[ Giltner Transportation Inc ]]>
+</company>
+<country>
+<![CDATA[ Canada ]]>
+</country>
+<country_code>
+<![CDATA[ CA ]]>
+</country_code>
+<major_category>
+<![CDATA[ Capital Markets ]]>
+</major_category>
+<minor_category>
+<![CDATA[ Trader ]]>
+</minor_category>
+<campaign_name>
+<![CDATA[ Test2805 ]]>
+</campaign_name>
+<campaign_id>
+<![CDATA[ 1068 ]]>
+</campaign_id>
+<advertiser_id>
+<![CDATA[ 5 ]]>
+</advertiser_id>
+</job>
+</source>
