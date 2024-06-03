@@ -5,9 +5,9 @@
     
     <job>
         <title>
-            <![CDATA[Fuel Service Technician 12345]]>
+            <![CDATA[Tester Service Technician 12345]]>
         </title>
-        <url>www.google.com</url>
+        <url>www.facee.com</url>
         <company>
             <![CDATA[Ryder]]>
         </company>
@@ -21,7 +21,7 @@
             <![CDATA[Canada]]>
         </country>
         <postalcode/>
-        <description>Software Engineer</description>
+        <description>Software Engineer123</description>
         <publisher/>
         <publisherurl/>
         <date>2023-08-02</date>
