@@ -9,7 +9,7 @@
         </title>
         <url>www.facee.com</url>
         <company>
-            <![CDATA[Ryder]]>
+            <![CDATA[TestRyder]]>
         </company>
         <city>
             <![CDATA[Toronto]]>
@@ -87,47 +87,6 @@
         <workschedule>Full Time</workschedule>
         <cpc><![CDATA[15]]></cpc>
     </job>
-    <job>
-        <title>
-            <![CDATA[tester31]]>
-        </title>
-        <url>ww.google.com</url>
-        <company>
-            <![CDATA[Ryder]]>
-        </company>
-        <city>
-            <![CDATA[Toronto]]>
-        </city>
-        <state>
-            <![CDATA[Ontario]]>
-        </state>
-        <country>
-            <![CDATA[Canada]]>
-        </country>
-        <postalcode/>
-        <description>Political standards and policies; perform some facility maintenance; perform minor maintenance tasks as assigned by supervisor&lt;/li&gt;&lt;li&gt;Attend and complete all Technician Training Development Program requirements and assessments. Training will include hands-on and online training as well as performing tasks learned. Technician Training Development Program will include but is not limited to:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Service Island Training:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Service Island Multi-point Inspection (includes Hand Held)&lt;/li&gt;&lt;li&gt;Vehicle Fueling and Washing&lt;/li&gt;&lt;li&gt;Environmental Safety &amp; Spill Response&lt;/li&gt;&lt;li&gt;Safe Driving&lt;/li&gt;&lt;li&gt;Service Island Organization &amp; Cleanliness (6S Standards)&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Technician I Training:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Preventive Maintenance&lt;/li&gt;&lt;li&gt;Tire and Wheel&lt;/li&gt;&lt;li&gt;Service Bay Tool&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Technician II Training:&lt;/li&gt;&lt;li&gt;HD Electrical&lt;/li&gt;&lt;li&gt;Air and Hydraulic Brakes&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Performs other duties as assigned&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Ryder is proud to be an Equal Opportunity Employer and Drug Free workplace. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, among other things, or status as a qualified individual with disability.</description>
-        <publisher/>
-        <publisherurl/>
-        <date>2023-07-27</date>
-        <lastBuildDate/>
-        <referencenumber>2023-144256</referencenumber>
-        <sourcename/>
-        <radius/>
-        <streetaddress/>
-        <email>sourcingcenter@ryder.com</email>
-        <salary/>
-        <education/>
-        <resumeoption>Optional</resumeoption>
-        <jobtype>Full Time</jobtype>
-        <major_category>Transportation &amp; Logistics</major_category>
-        <minor_category>Mechanic</minor_category>
-        <requirements/>
-        <requirement1/>
-        <experience/>
-        <expirationdate/>
-        <remotetype/>
-        <workschedule>Full Time</workschedule>
-        <cpc><![CDATA[10]]></cpc>
-    </job>
+    
 
     </source>
