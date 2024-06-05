@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<source>
+    <jobcount/>
 <job>
  <job_template_id><![CDATA[19016]]></job_template_id>
  <referencenumber><![CDATA[Ysgj8P1lBMv00rrz79S60w]]></referencenumber>
@@ -302,3 +305,4 @@
  <remotetype/>
  <workschedule/>
 </job>
+</source>
