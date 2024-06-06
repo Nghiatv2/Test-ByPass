@@ -40,8 +40,8 @@
         <experience/>
         <expirationdate/>
         <remotetype/>
-        <workschedule>Full Time</workschedule>
-       <cpc><![CDATA[10]]></cpc>
+        <workschedule>Part Time</workschedule>
+       <cpc><![CDATA[50]]></cpc>
     </job>
     <job>
         <title>
