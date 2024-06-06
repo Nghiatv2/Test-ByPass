@@ -3,11 +3,11 @@
     <jobcount/>
     <job>
         <title>
-            <![CDATA[Test1]]>
+            <![CDATA[Tester 1234560me]]>
         </title>
-        <url>https:google.com</url>
+        <url>https:fb.com</url>
         <company>
-            <![CDATA[Tester777]]>
+            <![CDATA[Tester999]]>
         </company>
         <city>
             <![CDATA[Corona]]>
@@ -19,7 +19,7 @@
             <![CDATA[United States]]>
         </country>
         <postalcode/>
-        <description>PRO TESTER</description>
+        <description>PRO spidey</description>
         <publisher/>
         <publisherurl/>
         <date>2023-04-04</date>
@@ -31,8 +31,8 @@
         <email>sourcingcenter@ryder.com</email>
         <salary/>
         <education/>
-        <resumeoption>Optional</resumeoption>
-        <jobtype>Full Time</jobtype>
+        <resumeoption>Required</resumeoption>
+        <jobtype>Part Time Time</jobtype>
         <major_category>Capital Markets</major_category>
         <minor_category>Trader</minor_category>
         <requirements/>
@@ -41,7 +41,7 @@
         <expirationdate/>
         <remotetype/>
         <workschedule>Part Time</workschedule>
-       <cpc><![CDATA[50]]></cpc>
+       <cpc><![CDATA[90]]></cpc>
     </job>
     <job>
         <title>
