@@ -3,7 +3,7 @@
     <jobcount/>
     <job>
         <title>
-            <![CDATA[ Tester2 pro1]]>
+            <![CDATA[ Tester2 pro07]]>
         </title>
         <url>https:java.com</url>b
         <company>
@@ -32,7 +32,7 @@
         <salary/>
         <education/>
         <resumeoption>Optional</resumeoption>
-        <jobtype>Full Time</jobtype>
+        <jobtype>Part Time</jobtype>
         <major_category>Transportation &amp; Logistics</major_category>
         <minor_category>Mechanic</minor_category>
         <requirements/>
