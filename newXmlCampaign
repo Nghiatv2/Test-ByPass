@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<source>
+    <jobcount/>
+    <job>
+        <title>
+            <![CDATA[Pro1 Player 01]]>
+        </title>
+        <url>www.googleee.com</url>
+        <company>
+            <![CDATA[Testing 1006vani ]]>
+        </company>
+        <city>
+            <![CDATA[Sunland Park]]>
+        </city>
+        <state>
+            <![CDATA[New Mexico]]>
+        </state>
+        <country>
+            <![CDATA[United States]]>
+        </country>
+        <postalcode/>
+        <description>NO no no description </description>
+        <publisher/>
+        <publisherurl/>
+        <date>2023-05-04</date>
+        <lastBuildDate/>
+        <referencenumber>2023-137219</referencenumber>
+        <sourcename/>
+        <radius/>
+        <streetaddress/>
+        <email>sourcingcenter@ryder.com</email>
+        <salary/>
+        <education/>
+        <campaign>Iqbal Campaign</campaign>
+        <resumeoption>Required</resumeoption>
+        <jobtype>Part Time</jobtype>
+        <major_category>Capital Markets</major_category>
+        <minor_category>Trader</minor_category>
+        <requirements/>
+        <requirement1/>
+        <experience/>
+        <expirationdate/>
+        <remotetype/>
+        <workschedule>Full Time</workschedule>
+       <cpc><![CDATA[10]]></cpc>
+    </job>
+</source>
