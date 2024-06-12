@@ -38,6 +38,7 @@
         <requirements/>
         <requirement1/>
         <experience/>
+        <campaign>Iqbal</campaign>
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
@@ -70,6 +71,7 @@
         <referencenumber>2023-140034</referencenumber>
         <sourcename/>
         <radius/>
+        <campaign>Abu</campaign>
         <streetaddress/>
         <email>sourcingcenter@ryder.com</email>
         <salary/>
@@ -92,7 +94,7 @@
         </title>
         <url>https://technicians-ryder.icims.com/jobs/144111/diesel-technician/job?in_iframe=1</url>
         <company>
-            <![CDATA[Ryder]]>
+            <![CDATA[Helvitica]]>
         </company>
         <city>
             <![CDATA[Toronto]]>
@@ -115,6 +117,7 @@
         <streetaddress/>
         <email>sourcingcenter@ryder.com</email>
         <salary/>
+        <campaign>Dileep</campaign>
         <education/>
         <resumeoption>Optional</resumeoption>
         <jobtype>Full Time</jobtype>
