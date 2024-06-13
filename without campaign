@@ -39,7 +39,6 @@
         <requirements/>
         <requirement1/>
         <experience/>
-      
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
@@ -72,7 +71,6 @@
         <referencenumber>2023-140034</referencenumber>
         <sourcename/>
         <radius/>
-   
         <streetaddress/>
         <email>sourcingcenter@ryder.com</email>
         <salary/>
@@ -118,7 +116,6 @@
         <streetaddress/>
         <email>sourcingcenter@ryder.com</email>
         <salary/>
-
         <education/>
         <resumeoption>Optional</resumeoption>
         <jobtype>Full Time</jobtype>
