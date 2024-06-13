@@ -3,28 +3,28 @@
     <jobcount/>
     <job>
         <title>
-            <![CDATA[Pro1a Player 01]]>
+            <![CDATA[Camp1]]>
         </title>
         <url>www.googleee.com</url>
         <company>
-            <![CDATA[Testing 1006vani ]]>
+            <![CDATA[FPT1 ]]>
         </company>
         <city>
-            <![CDATA[Sunland Park]]>
+            <![CDATA[katy]]>
         </city>
         <state>
-            <![CDATA[New Mexico]]>
+            <![CDATA[Texas]]>
         </state>
         <country>
             <![CDATA[United States]]>
         </country>
         <postalcode/>
-        <description>NO no no description </description>
+        <description>nodescription </description>
         <publisher/>
         <publisherurl/>
         <date>2023-05-04</date>
         <lastBuildDate/>
-        <referencenumber>2023-137219</referencenumber>
+        <referencenumber>2023-134219</referencenumber>
         <sourcename/>
         <radius/>
         <streetaddress/>
@@ -38,7 +38,7 @@
         <requirements/>
         <requirement1/>
         <experience/>
-        <campaign>Iqbal</campaign>
+        <campaign>Eswar</campaign>
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
@@ -47,17 +47,17 @@
     
     <job>
         <title>
-            <![CDATA[Pro2 player 02]]>
+            <![CDATA[camp2]]>
         </title>
         <url>https://technicians-ryder.icims.com/jobs/144034/fuel-service-technician/job?in_iframe=1</url>
         <company>
-            <![CDATA[Ryder]]>
+            <![CDATA[FPT2]]>
         </company>
         <city>
-            <![CDATA[Toronto]]>
+            <![CDATA[Mission]]>
         </city>
         <state>
-            <![CDATA[Ontario]]>
+            <![CDATA[TX]]>
         </state>
         <country>
             <![CDATA[Canada]]>
@@ -71,7 +71,7 @@
         <referencenumber>2023-140034</referencenumber>
         <sourcename/>
         <radius/>
-        <campaign>Abu</campaign>
+        <campaign>Munna</campaign>
         <streetaddress/>
         <email>sourcingcenter@ryder.com</email>
         <salary/>
@@ -94,7 +94,7 @@
         </title>
         <url>https://technicians-ryder.icims.com/jobs/144111/diesel-technician/job?in_iframe=1</url>
         <company>
-            <![CDATA[Helvitica]]>
+            <![CDATA[FPT3]]>
         </company>
         <city>
             <![CDATA[Toronto]]>
@@ -117,7 +117,7 @@
         <streetaddress/>
         <email>sourcingcenter@ryder.com</email>
         <salary/>
-        <campaign>Dileep</campaign>
+        <campaign>sai</campaign>
         <education/>
         <resumeoption>Optional</resumeoption>
         <jobtype>Full Time</jobtype>
@@ -129,6 +129,6 @@
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
-        <cpc><![CDATA[10]]></cpc>
+        <cpc><![CDATA[100]]></cpc>
     </job>
 </source>
