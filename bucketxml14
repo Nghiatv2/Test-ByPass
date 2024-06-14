@@ -3,11 +3,11 @@
     <jobcount/>
     <job>
         <title>
-            <![CDATA[job1.1.1]]>
+            <![CDATA[job1.1.1.2.2]]>
         </title>
-        <url>www.fpt.software.com</url>
+        <url>www.fpt.software.com/google</url>
         <company>
-            <![CDATA[company1]]>
+            <![CDATA[company2]]>
         </company>
         <city>
             <![CDATA[Toronto]]>
@@ -31,18 +31,18 @@
         <email>sourcingcenter@ryder.com</email>
         <salary/>
         <education/>
-        <resumeoption>Optional</resumeoption>
+        <resumeoption>Required</resumeoption>
         <jobtype>Full Time</jobtype>
         <major_category>Capital Markets</major_category>
         <minor_category>Trader</minor_category>
         <requirements/>
         <requirement1/>
         <experience/>
-         <campaign>Eswar sai</campaign>
+         <campaign>Eswar sai.k</campaign>
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
-       <cpc><![CDATA[200]]></cpc>
+       <cpc><![CDATA[250]]></cpc>
     </job>
     <job>
         <title>
