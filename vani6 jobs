@@ -43,7 +43,7 @@
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
-<Campaign>Team 1</Campaign>
+<Campaign><![CDATA[TEAM 1]]</Campaign>
      <cpc><![CDATA[10]]></cpc>
     </job>
     <job>
@@ -86,7 +86,7 @@
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
-<Campaign>Team 2</Campaign>
+<Campaign><![CDATA[TEAM 2]]</Campaign>
         <cpc><![CDATA[10]]></cpc>
     </job>
     <job>
@@ -129,7 +129,7 @@
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
-<Campaign>Team 3</Campaign>
+<Campaign><![CDATA[TEAM 3]]</Campaign>
        <cpc><![CDATA[10]]></cpc>
     </job>
     <job>
@@ -172,7 +172,7 @@
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
-<Campaign>Team 4</Campaign>
+<Campaign><![CDATA[TEAM 4]]</Campaign>
         <cpc><![CDATA[10]]></cpc>
     </job>
     </source>
