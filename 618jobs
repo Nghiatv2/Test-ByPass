@@ -3,11 +3,11 @@
     <jobcount/>
     <job>
         <title>
-            <![CDATA[ Tester Team1]]>
+            <![CDATA[ Telugu Team1]]>
         </title>
         <url>www.google.com</url>
         <company>
-            <![CDATA[Tester Team1]]>
+            <![CDATA[Telugu  Team1]]>
         </company>
         <city>
             <![CDATA[Corona]]>
@@ -19,7 +19,7 @@
             <![CDATA[United States]]>
         </country>
         <postalcode/>
-        <description>Pro testing </description>
+        <description>Pro tester team </description>
         <publisher/>
         <publisherurl/>
         <date>2023-04-04</date>
