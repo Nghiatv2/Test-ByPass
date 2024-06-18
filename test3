@@ -3,11 +3,11 @@
     <jobcount/>
     <job>
         <title>
-            <![CDATA[ Telugu Team1]]>
+            <![CDATA[ Testing Team1]]>
         </title>
         <url>www.fb.com</url>
         <company>
-            <![CDATA[Telugu  Team1]]>
+            <![CDATA[Testing Team1]]>
         </company>
         <city>
             <![CDATA[Corona]]>
@@ -19,7 +19,7 @@
             <![CDATA[United States]]>
         </country>
         <postalcode/>
-        <description>Pro tester team </description>
+        <description>Testing tester team </description>
         <publisher/>
         <publisherurl/>
         <date>2023-04-04</date>
@@ -42,7 +42,7 @@
         <expirationdate/>
         <remotetype/>
         <workschedule>Full Time</workschedule>
-       <cpc><![CDATA[100]]></cpc>
+       <cpc><![CDATA[25]]></cpc>
     </job>
     <job>
         <title>
