@@ -29,7 +29,7 @@
     <expirationdate/>
     <remotetype/>
     <workschedule>Full Time</workschedule>
-    <cpc><![CDATA[100]]></cpc>
+    <cpc><![CDATA[10]]></cpc>
 </job>
 <job>
     <title><![CDATA[ Tester Team1 1]]></title>
@@ -61,7 +61,7 @@
     <expirationdate/>
     <remotetype/>
     <workschedule>Full Time</workschedule>
-    <cpc><![CDATA[100]]></cpc>
+    <cpc><![CDATA[10]]></cpc>
 </job>
 <job>
     <title><![CDATA[ Tester Team1 2]]></title>
@@ -125,7 +125,7 @@
     <expirationdate/>
     <remotetype/>
     <workschedule>Full Time</workschedule>
-    <cpc><![CDATA[100]]></cpc>
+    <cpc><![CDATA[10]]></cpc>
 </job>
 <job>
     <title><![CDATA[ Tester Team1 4]]></title>
@@ -157,7 +157,7 @@
     <expirationdate/>
     <remotetype/>
     <workschedule>Full Time</workschedule>
-    <cpc><![CDATA[100]]></cpc>
+    <cpc><![CDATA[10]]></cpc>
 </job>
 <job>
     <title><![CDATA[ Tester Team1 5]]></title>
@@ -189,7 +189,7 @@
     <expirationdate/>
     <remotetype/>
     <workschedule>Full Time</workschedule>
-    <cpc><![CDATA[100]]></cpc>
+    <cpc><![CDATA[10]]></cpc>
 </job>
 <job>
     <title><![CDATA[ Tester Team1 6]]></title>
@@ -253,6 +253,6 @@
     <expirationdate/>
     <remotetype/>
     <workschedule>Full Time</workschedule>
-    <cpc><![CDATA[100]]></cpc>
+    <cpc><![CDATA[10]]></cpc>
 </job>
 </source>
