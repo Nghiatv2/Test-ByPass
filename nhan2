@@ -32,14 +32,14 @@
     <cpc><![CDATA[10]]></cpc>
 </job>
 <job>
-    <title><![CDATA[ Tester Team1 1]]></title>
-    <url>www.google.com</url>
-    <company><![CDATA[Tester Team1]]></company>
-    <city><![CDATA[Corona]]></city>
-    <state><![CDATA[New York]]></state>
+    <title><![CDATA[ Tester Team tester]]></title>
+    <url>www.googletester.com</url>
+    <company><![CDATA[Tester Team tester]]></company>
+    <city><![CDATA[Cedar Park]]></city>
+    <state><![CDATA[Texas]]></state>
     <country><![CDATA[United States]]></country>
     <postalcode/>
-    <description>Pro testing </description>
+    <description>Pro testing tester </description>
     <publisher/>
     <publisherurl/>
     <date>2023-04-04</date>
@@ -61,7 +61,7 @@
     <expirationdate/>
     <remotetype/>
     <workschedule>Full Time</workschedule>
-    <cpc><![CDATA[10]]></cpc>
+    <cpc><![CDATA[3]]></cpc>
 </job>
 <job>
     <title><![CDATA[ Tester Team1 2]]></title>
@@ -222,37 +222,5 @@
     <remotetype/>
     <workschedule>Full Time</workschedule>
     <cpc><![CDATA[100]]></cpc>
-</job>
-<job>
-    <title><![CDATA[ Tester Team1 7]]></title>
-    <url>www.google.com</url>
-    <company><![CDATA[Tester Team1]]></company>
-    <city><![CDATA[Corona]]></city>
-    <state><![CDATA[New York]]></state>
-    <country><![CDATA[United States]]></country>
-    <postalcode/>
-    <description>Pro testing </description>
-    <publisher/>
-    <publisherurl/>
-    <date>2023-04-04</date>
-    <lastBuildDate/>
-    <referencenumber>2022-1263387</referencenumber>
-    <sourcename/>
-    <radius/>
-    <streetaddress/>
-    <email>sourcingcenter@ryder.com</email>
-    <salary/>
-    <education/>
-    <resumeoption>Required</resumeoption>
-    <jobtype>Part Time</jobtype>
-    <major_category>Capital Markets</major_category>
-    <minor_category>Trader</minor_category>
-    <requirements/>
-    <requirement1/>
-    <experience/>
-    <expirationdate/>
-    <remotetype/>
-    <workschedule>Full Time</workschedule>
-    <cpc><![CDATA[10]]></cpc>
 </job>
 </source>
