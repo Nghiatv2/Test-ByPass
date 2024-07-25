@@ -45,10 +45,10 @@
 <![CDATA[ USD ]]>
 </salary_unit>
 <salary_from>
-<![CDATA[ 52000 ]]>
+<![CDATA[ $52000 ]]>
 </salary_from>
 <salary_to>
-<![CDATA[ 93600 ]]>
+<![CDATA[ $93600 ]]>
 </salary_to>
 <salary_type>
 <![CDATA[DAILY]]>
