@@ -74,6 +74,8 @@
 <![CDATA[ 45535 ]]>
 </expirationdate>
 <remotetype/>
-<workschedule/>
+<workschedule>
+<![CDATA[ FULL_TIME ]]>
+</workschedule>
 </job>
 </source>
