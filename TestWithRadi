@@ -65,8 +65,14 @@
 <![CDATA[ CDL A Regional Company Driver ]]>
 </minor_category>
 <requirements>
-<requirement1/>
+        <requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+				<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
 </requirements>
+<benefit>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[401k with Match]]></benefit2>
+			<benefit3><![CDATA[Promote from Within]]></benefit3>
+</benefit>
 <experience>
 <![CDATA[ 4 months ]]>
 </experience>
