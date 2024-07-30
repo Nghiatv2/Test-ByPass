@@ -65,8 +65,14 @@
 <![CDATA[ CDL A Regional Company Driver ]]>
 </minor_category>
 <requirements>
-<requirement1/>
-</requirements>
+            		<requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+				<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+       		</requirements>
+<benefits>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[401k with Match]]></benefit2>
+			<benefit3><![CDATA[Promote from Within]]></benefit3>
+		</benefits>
 <experience>
 <![CDATA[ 4 months ]]>
 </experience>
@@ -74,7 +80,9 @@
 <![CDATA[ 45535 ]]>
 </expirationdate>
 <remotetype/>
-<workschedule/>
+<workschedule>
+<![CDATA[ FULL_TIME ]]>
+</workschedule>
 </job>
 <job>
 <title>
@@ -138,8 +146,14 @@
 <![CDATA[ CDL A Regional Company Driver ]]>
 </minor_category>
 <requirements>
-<requirement1/>
-</requirements>
+            		<requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+				<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+       		</requirements>
+<benefits>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[401k with Match]]></benefit2>
+			<benefit3><![CDATA[Promote from Within]]></benefit3>
+		</benefits>
 <experience>
 <![CDATA[ 4 months ]]>
 </experience>
@@ -147,7 +161,7 @@
 <![CDATA[ 45535 ]]>
 </expirationdate>
 <remotetype/>
-<workschedule/>
+<workschedule> <![CDATA[ FULL_TIME ]]> </workschedule>
 </job>
 <job>
 <title>
@@ -211,8 +225,14 @@
 <![CDATA[ CDL A Regional Company Driver ]]>
 </minor_category>
 <requirements>
-<requirement1/>
-</requirements>
+            		<requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+				<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+       		</requirements>
+<benefits>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[401k with Match]]></benefit2>
+			<benefit3><![CDATA[Promote from Within]]></benefit3>
+		</benefits>
 <experience>
 <![CDATA[ 4 months ]]>
 </experience>
@@ -220,7 +240,7 @@
 <![CDATA[ 45535 ]]>
 </expirationdate>
 <remotetype/>
-<workschedule/>
+<workschedule> <![CDATA[ FULL_TIME ]]> </workschedule>
 </job>
 <job>
 <title>
@@ -284,8 +304,14 @@
 <![CDATA[ CDL A Regional Company Driver ]]>
 </minor_category>
 <requirements>
-<requirement1/>
-</requirements>
+            		<requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+				<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+       		</requirements>
+<benefits>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[401k with Match]]></benefit2>
+			<benefit3><![CDATA[Promote from Within]]></benefit3>
+		</benefits>
 <experience>
 <![CDATA[ 4 months ]]>
 </experience>
@@ -293,7 +319,7 @@
 <![CDATA[ 45535 ]]>
 </expirationdate>
 <remotetype/>
-<workschedule/>
+<workschedule> <![CDATA[ FULL_TIME ]]> </workschedule>
 </job>
 <job>
 <title>
@@ -357,8 +383,14 @@
 <![CDATA[ CDL A Regional Company Driver ]]>
 </minor_category>
 <requirements>
-<requirement1/>
-</requirements>
+            		<requirement1><![CDATA[Are you comfortable making multiple deliveries]]></requirement1>
+				<requirement2><![CDATA[Are you comfortable lifting 50 lbs or more]]></requirement2>
+       		</requirements>
+<benefits>
+			<benefit1><![CDATA[Health Care]]></benefit1>
+			<benefit2><![CDATA[401k with Match]]></benefit2>
+			<benefit3><![CDATA[Promote from Within]]></benefit3>
+		</benefits>
 <experience>
 <![CDATA[ 4 months ]]>
 </experience>
@@ -366,6 +398,6 @@
 <![CDATA[ 45535 ]]>
 </expirationdate>
 <remotetype/>
-<workschedule/>
+<workschedule> <![CDATA[ FULL_TIME ]]> </workschedule>
 </job>
 </source>
