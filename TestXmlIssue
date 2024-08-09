@@ -28,9 +28,7 @@
 <state>
 <![CDATA[ CO ]]>
 </state>
-<radius>
-<![CDATA[ 50 ]]>
-</radius>
+<radius/>
 <country>
 <![CDATA[ USA ]]>
 </country>
